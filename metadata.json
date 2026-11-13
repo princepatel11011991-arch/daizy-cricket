@@ -1,0 +1,8 @@
+{
+  "name": "CricDesk — Cricket Tournament Registration & ID Pass Studio",
+  "description": "Dynamic cricket tournament player registration form builder, multi-tournament archive, one-submission-per-phone protection, PDF/Excel/Text exports, and customizable player ID card studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
